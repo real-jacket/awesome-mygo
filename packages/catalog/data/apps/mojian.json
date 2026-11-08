@@ -1,0 +1,22 @@
+{
+	"$schema": "../schema/app.schema.json",
+	"slug": "mojian",
+	"name": "mojian",
+	"author": "ox0pine",
+	"kind": "native",
+	"platforms": [
+		"win",
+		"linux",
+		"mac"
+	],
+	"group": "dev",
+	"url": "https://github.com/ox0pine/mojian",
+	"repo": "ox0pine/mojian",
+	"summary": {
+		"en": "一款安静的纯文本编辑器:原生标签页、分栏、终端、Git 和 SSH 项目。基于 MyGo 构建,支持 macOS 和 Linux。"
+	},
+	"description": {
+		"en": "一款安静的纯文本编辑器:原生标签页、分栏、终端、Git 和 SSH 项目。基于 MyGo 构建,支持 macOS 和 Linux。"
+	},
+	"added": "2026-11-08T09:59:58Z"
+}
